@@ -1,6 +1,4 @@
-// Lexer for LLVM created by Abdurrahman Lleshi
-
-// A tokeniser for the Fun language by Abdurrahman Lleshi
+// A tokeniser (Lexer) for the Fun language by Abdurrahman Lleshi
 //==================================
 //
 // call with 
